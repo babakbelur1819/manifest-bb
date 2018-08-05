@@ -1,10 +1,10 @@
-{
+ {
   "name": "BabaKBeluR.com",
   "short_name": "BabaK BeluR",
-  "start_url": "/?utm_source=a2hs"
-  "display"; "standalone"
-  "background_color"; "#fff",
-  "theme_color": "#2B0C93",
+  "start_url": "https://www.babakbelur.com/?utm_source=a2hs"
+  "theme_color": "#fff",
+  "background_color": "#2196f3",
+  "display": "standalone",
   "description": "Kisah Hidup Unik, Seputar Edukasi, Serta Berbagi Tips dan Trik Mengenai Kamera, Pengetahuan Umum, Video Youtube, Video Kajian, Kisah-Kisah Nabi Yang Inspiratif.",
    "icons": [{
     "src": "https://4.bp.blogspot.com/-gsd9UyDxN3U/W2W96wceCRI/AAAAAAAABEs/PRkbf7m0xnUbYJQYqR4fNOGgH1tkItxXACLcBGAs/s1600/android-icon-48x48.png",
