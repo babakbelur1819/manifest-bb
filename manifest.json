@@ -1,11 +1,11 @@
  {
-  "name": "BabaKBeluR.com",
+   "name": "babakbelur.com",
   "short_name": "BabaK BeluR",
-  "start_url": "https://www.babakbelur.com/?utm_source=a2hs"
-  "theme_color": "#fff",
-  "background_color": "#2196f3",
+  "description": "Kisah Hidup Unik, Seputar Edukasi, Serta Berbagi Tips dan Trik Mengenai Kamera, Pengetahuan Umum, Video Youtube, Video Kajian, Kisah-Kisah Nabi Yang Inspiratif",
+  "lang": "id-EN",
+  "start_url": "https://www.babakbelur.com/",
   "display": "standalone",
-  "description": "Kisah Hidup Unik, Seputar Edukasi, Serta Berbagi Tips dan Trik Mengenai Kamera, Pengetahuan Umum, Video Youtube, Video Kajian, Kisah-Kisah Nabi Yang Inspiratif.",
+  "prefer_related_applications": true
    "icons": [{
     "src": "https://4.bp.blogspot.com/-gsd9UyDxN3U/W2W96wceCRI/AAAAAAAABEs/PRkbf7m0xnUbYJQYqR4fNOGgH1tkItxXACLcBGAs/s1600/android-icon-48x48.png",
     "sizes": "48x48",
