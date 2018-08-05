@@ -8,7 +8,32 @@
   "icons": [
     {
       "src": "https://2.bp.blogspot.com/-gqv771d_GHw/W2bOE0h3e4I/AAAAAAAABF8/B3q-YkshYgwCaAPrzyB7zwPnsFIifvU8wCLcBGAs/s1600/android-icon-192x192.png",
+      "sizes": "48x48",
+      "type": "png"
+    },
+      {
+      "src": "https://2.bp.blogspot.com/-gqv771d_GHw/W2bOE0h3e4I/AAAAAAAABF8/B3q-YkshYgwCaAPrzyB7zwPnsFIifvU8wCLcBGAs/s1600/android-icon-192x192.png",
+      "sizes": "72x72",
+      "type": "png"
+    },
+      {
+      "src": "https://2.bp.blogspot.com/-gqv771d_GHw/W2bOE0h3e4I/AAAAAAAABF8/B3q-YkshYgwCaAPrzyB7zwPnsFIifvU8wCLcBGAs/s1600/android-icon-192x192.png",
+      "sizes": "144x144",
+      "type": "png"
+    },
+      {
+      "src": "https://2.bp.blogspot.com/-gqv771d_GHw/W2bOE0h3e4I/AAAAAAAABF8/B3q-YkshYgwCaAPrzyB7zwPnsFIifvU8wCLcBGAs/s1600/android-icon-192x192.png",
+      "sizes": "168x168",
+      "type": "png"
+    },
+      {
+      "src": "https://2.bp.blogspot.com/-gqv771d_GHw/W2bOE0h3e4I/AAAAAAAABF8/B3q-YkshYgwCaAPrzyB7zwPnsFIifvU8wCLcBGAs/s1600/android-icon-192x192.png",
       "sizes": "192x192",
+      "type": "png"
+    },
+      {
+      "src": "https://2.bp.blogspot.com/-gqv771d_GHw/W2bOE0h3e4I/AAAAAAAABF8/B3q-YkshYgwCaAPrzyB7zwPnsFIifvU8wCLcBGAs/s1600/android-icon-192x192.png",
+      "sizes": "512x512",
       "type": "png"
     }
   ],
