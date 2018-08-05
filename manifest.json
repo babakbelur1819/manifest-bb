@@ -1,8 +1,7 @@
 {
   "name": "BabaKBeluR.com",
   "short_name": "BabaK BeluR",
-  "start_url": "/?utm_source=a2hs",
-  "scope": "/web/",
+  "start_url": "/?utm_source=a2hs"
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
