@@ -23,8 +23,8 @@
     "type": "image/png"
   }],
   "start_url": "/?utm_source=a2hs"
-  "display": "standalone"
+  "display":"standalone"
   "background_color": "#fff",
-  "theme_color": "#2B0C93",
+  "theme_color":"#2B0C93",
   "description": "Kisah Hidup Unik, Seputar Edukasi, Serta Berbagi Tips dan Trik Mengenai Kamera, Pengetahuan Umum, Video Youtube, Video Kajian, Kisah-Kisah Nabi Yang Inspiratif.",
 }
