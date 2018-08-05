@@ -7,11 +7,6 @@
   "display": "standalone",
   "prefer_related_applications": true
   "icons": [
-  "src": "https://4.bp.blogspot.com/-gsd9UyDxN3U/W2W96wceCRI/AAAAAAAABEs/PRkbf7m0xnUbYJQYqR4fNOGgH1tkItxXACLcBGAs/s1600/android-icon-48x48.png",
-    "sizes": "48x48",
-    "type": "png"
-  }, 
-{
     "src": "https://3.bp.blogspot.com/-VIR3BKL4Lw4/W2W-AhcOxmI/AAAAAAAABE0/jDH6rY5JzXIl2hGJsVtQ2fTGfCL6EHiawCLcBGAs/s1600/android-icon-72x72.png",
     "sizes": "72x72",
     "type": "png"
