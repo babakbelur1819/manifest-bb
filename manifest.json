@@ -5,7 +5,7 @@
   "background_color": "#fff",
   "theme_color": "#ffffff",
   "lang": "id",
-  "start_url": "https://www.babakbelur.com/",
+  "start_url": "https://www.babakbelur.com/?launcher=true",
   "display": "standalone",
   "icons": [
     {
