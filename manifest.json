@@ -11,37 +11,37 @@
     {
       "src": "https://1.bp.blogspot.com/-TGXhPRpJLNo/W2cToyjUzpI/AAAAAAAABGw/IoDtVfcpwfIkjx1c-6X4v7Akf5kHRAf_QCLcBGAs/s1600/android-icon-48x48.png",
       "sizes": "48x48",
-      "type": "png"
+      "type": "image/png"
     },
       {
       "src": "https://4.bp.blogspot.com/-PlhcgRyNfzo/W2cToqh4SlI/AAAAAAAABGs/RQQkzfSc848bJ4siV0ZuxUSF0eoTxeQQACLcBGAs/s1600/android-icon-72x72.png",
       "sizes": "72x72",
-      "type": "png"
+      "type": "image/png"
     },
       {
       "src": "https://4.bp.blogspot.com/-gTzsbhRLjj4/W2cTr32WcfI/AAAAAAAABG0/bSltqPg-ApA9W-D50c0gwr_vCAz4aZZMwCLcBGAs/s1600/android-icon-144x144.png",
       "sizes": "144x144",
-      "type": "png"
+      "type": "image/png"
     },
      {
     "src": "https://2.bp.blogspot.com/-hNimkoVq7Qc/W2i0dxUlTuI/AAAAAAAABKs/lrhzFk7Hz68LVuCO6HLGkgAUUU1rVxopACLcBGAs/s1600/168x168.png",
       "sizes": "168x168",
-      "type": "png"
+      "type": "image/png"
     },
       {
       "src": "https://4.bp.blogspot.com/-ISYnpe9HoaQ/W2cT6dGQlGI/AAAAAAAABHA/EjYfKKBcdkwbXLdCGaKIxjwA8LbOqE5kQCLcBGAs/s1600/apple-icon-180x180.png",
       "sizes": "180x180",
-      "type": "png"
+      "type": "image/png"
     },
       {
       "src": "https://1.bp.blogspot.com/-Xs5oFL4rPDQ/W2cTvkUBmYI/AAAAAAAABG4/cSfKMueeHtkaw7Gt_4xEMMdx1rsPnw-PQCLcBGAs/s1600/android-icon-192x192.png",
       "sizes": "192x192",
-      "type": "png"
+      "type": "image/png"
     },
       {
       "src": "https://2.bp.blogspot.com/-pQm0rf0SKQ4/W2cUbGj0GQI/AAAAAAAABHQ/spCnwcJBBwMzoheM49bWFr3FRlfOOF0xACLcBGAs/s320/BabaK-BeluR.png",
       "sizes": "512x512",
-      "type": "png"
+      "type": "image/png"
     }
   ],
   "prefer_related_applications": true
