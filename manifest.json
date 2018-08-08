@@ -5,7 +5,7 @@
   "background_color": "#fff",
   "theme_color": "#ffffff",
   "lang": "id",
-  "start_url": "/?utm_source=manifest",
+  "start_url": "https://www.babakbelur.com/?utm_source=manifest",
   "orientation": "portrait",
   "display": "standalone",
   "icons": [
