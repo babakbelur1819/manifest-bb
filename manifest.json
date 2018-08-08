@@ -4,8 +4,10 @@
   "description": "Kisah Hidup Unik, Seputar Edukasi, Serta Berbagi Tips dan Trik Mengenai Kamera, Pengetahuan Umum, Video Youtube, Video Kajian, Kisah-Kisah Nabi Yang Inspiratif",
   "background_color": "#fff",
   "theme_color": "#ffffff",
+  "gcm_sender_id": "406934991796"
   "lang": "id",
-  "start_url": "https://www.babakbelur.com/?utm_source=homescreen",
+  "start_url": "/?utm_source=manifest",
+  "orientation": "portrait",
   "display": "standalone",
   "icons": [
     {
